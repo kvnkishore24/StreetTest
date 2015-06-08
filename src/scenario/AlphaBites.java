@@ -15,10 +15,11 @@ import util.Obj;
 import util.ReusableMethods;
 
 public class AlphaBites extends ReusableMethods {
+	public ArrayList<String> biteIdList = new ArrayList<String>();
+	
 
 	@Test(priority = 1, description = "Testing the number of Bite's displaying default")
 	public void defaultBitesDisplayingTest(Method method) throws InterruptedException {
-		ArrayList<String> biteIdList = new ArrayList<String>();
 
 		Logger log = Logger.getLogger(method.getName());
 		PropertyConfigurator.configure("Log4j.properties");
@@ -29,46 +30,14 @@ public class AlphaBites extends ReusableMethods {
 		List<WebElement> allBiteIds = alphaBiteContentElements.findElements(By.tagName("article"));
 		Assert.assertEquals(allBiteIds.size(), 10);
 		log.info("Totel number of Bite's::" + allBiteIds.size());
-
+		
 		for (WebElement biteIds : allBiteIds) {
-			String biteId = biteIds.getAttribute("id");
-			biteIdList.add(biteId);
+			 String biteId = biteIds.getAttribute("id");
+			 biteIdList.add(biteId);
+		
 		}
 		for (int i = 0; i < biteIdList.size(); i++) {
 			System.out.println(biteIdList.get(i));
 		}
-	}
-
-	@Test(priority = 2, description = "Testing the number of Post's displaying default")
-	public void showMoreBitesBtnTest(Method method) throws InterruptedException {
-		ArrayList<String> biteIdList = new ArrayList<String>();
-
-		Logger log = Logger.getLogger(method.getName());
-		PropertyConfigurator.configure("Log4j.properties");
-		log.info("User Clicked on SHOW-MORE-POST Button ");
-		Thread.sleep(8000);
-
-		waitForElementPresent(Obj.getIdentify("showmorebitesBtn"), Obj.getLocation("showmorebitesBtn"));
-		WebElement showMoreBitesBtn = getElement(Obj.getIdentify("showmorebitesBtn"), Obj.getLocation("showmorebitesBtn"));
-		waitForElementPresent(Obj.getIdentify("showmorebitesBtn"), Obj.getLocation("showmorebitesBtn"));
-		showMoreBitesBtn.click();
-		Thread.sleep(5000);
-
-		waitForElementPresent(Obj.getIdentify("alphabitesContent"), Obj.getLocation("alphabitesContent"));
-		WebElement alphaBiteContentElements = getElement(Obj.getIdentify("alphabitesContent"), Obj.getLocation("alphabitesContent"));
-		List<WebElement> allBiteIds = alphaBiteContentElements.findElements(By.tagName("article"));
-
-		for (WebElement biteIds : allBiteIds) {
-			String biteId = biteIds.getAttribute("id");
-			if (!biteId.equals("")) {
-				biteIdList.add(biteId);
-			}
-		}
-		log.info("Totel number of Bite's::" + biteIdList.size());
-		Assert.assertEquals(biteIdList.size(), 20);
-		for (int i = 0; i < biteIdList.size(); i++) {
-			System.out.println(biteIdList.get(i));
-		}
-
 	}
 }

@@ -7,14 +7,13 @@
     <parameter name="browser" value="chrome"/>
     <parameter name="browsername" value="Chrome Browser"/>
     <classes>
-      <class name="scenario.AlphaTalks">
+      <class name="scenario.Sample">
         <methods>
           <include name="initialize"/>
-          <include name="showMorePostBtnTest" invocation-numbers="0"/>
-          <include name="defaultPostsDisplayingTest"/>
+          <include name="defaultBitesDisplayingTest" invocation-numbers="0"/>
           <include name="stopDriver"/>
         </methods>
-      </class> <!-- scenario.AlphaTalks -->
+      </class> <!-- scenario.Sample -->
     </classes>
   </test> <!-- ChromeTest(failed) -->
 </suite> <!-- Failed suite [main Suite] -->
