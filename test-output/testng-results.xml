@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" total="3" passed="3">
+<testng-results skipped="0" failed="0" total="5" passed="5">
   <reporter-output>
   </reporter-output>
-  <suite name="main Suite" duration-ms="68508" started-at="2015-06-08T10:02:05Z" finished-at="2015-06-08T10:03:13Z">
+  <suite name="main Suite" duration-ms="72962" started-at="2015-06-08T12:42:57Z" finished-at="2015-06-08T12:44:10Z">
     <groups>
     </groups>
-    <test name="ChromeTest" duration-ms="68508" started-at="2015-06-08T10:02:05Z" finished-at="2015-06-08T10:03:13Z">
+    <test name="ChromeTest" duration-ms="72962" started-at="2015-06-08T12:42:57Z" finished-at="2015-06-08T12:44:10Z">
       <class name="scenario.AlphaBites">
-        <test-method status="PASS" signature="defaultBitesDisplayingTest(java.lang.reflect.Method)[pri:0, instance:scenario.AlphaBites@17246de]" name="defaultBitesDisplayingTest" duration-ms="8234" started-at="2015-06-08T15:33:05Z" description="Testing the number of Bite&#039;s displaying default" finished-at="2015-06-08T15:33:13Z">
+        <test-method status="PASS" signature="defaultBitesDisplayingTest(java.lang.reflect.Method)[pri:0, instance:scenario.AlphaBites@17246de]" name="defaultBitesDisplayingTest" duration-ms="8243" started-at="2015-06-08T18:13:48Z" description="Testing the number of Bite&#039;s displaying default" finished-at="2015-06-08T18:13:56Z">
           <params>
             <param index="0">
               <value>
@@ -18,9 +18,20 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- defaultBitesDisplayingTest -->
+        <test-method status="PASS" signature="showMoreBitesBtnTest(java.lang.reflect.Method)[pri:0, instance:scenario.AlphaBites@17246de]" name="showMoreBitesBtnTest" duration-ms="13400" started-at="2015-06-08T18:13:56Z" description="Testing the number of Post&#039;s displaying default" finished-at="2015-06-08T18:14:10Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scenario.AlphaBites.showMoreBitesBtnTest(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showMoreBitesBtnTest -->
       </class> <!-- scenario.AlphaBites -->
       <class name="scenario.AlphaTalks">
-        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:scenario.AlphaTalks@34d63f]" name="initialize" is-config="true" duration-ms="1465" started-at="2015-06-08T15:32:05Z" finished-at="2015-06-08T15:32:06Z">
+        <test-method status="PASS" signature="initialize(java.lang.String)[pri:0, instance:scenario.AlphaTalks@34d63f]" name="initialize" is-config="true" duration-ms="1781" started-at="2015-06-08T18:12:57Z" finished-at="2015-06-08T18:12:59Z">
           <params>
             <param index="0">
               <value>
@@ -31,7 +42,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initialize -->
-        <test-method status="PASS" signature="defaultPostsDisplayingTest(java.lang.reflect.Method)[pri:0, instance:scenario.AlphaTalks@34d63f]" name="defaultPostsDisplayingTest" duration-ms="8533" started-at="2015-06-08T15:32:56Z" description="Testing the number of Post&#039;s displaying default" finished-at="2015-06-08T15:33:05Z">
+        <test-method status="PASS" signature="defaultPostsDisplayingTest(java.lang.reflect.Method)[pri:0, instance:scenario.AlphaTalks@34d63f]" name="defaultPostsDisplayingTest" duration-ms="8611" started-at="2015-06-08T18:13:26Z" description="Testing the number of Post&#039;s displaying default" finished-at="2015-06-08T18:13:35Z">
           <params>
             <param index="0">
               <value>
@@ -42,13 +53,24 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- defaultPostsDisplayingTest -->
-        <test-method status="PASS" signature="stopDriver()[pri:0, instance:scenario.AlphaTalks@34d63f]" name="stopDriver" is-config="true" duration-ms="0" started-at="2015-06-08T15:33:13Z" finished-at="2015-06-08T15:33:13Z">
+        <test-method status="PASS" signature="showMorePostBtnTest(java.lang.reflect.Method)[pri:0, instance:scenario.AlphaTalks@34d63f]" name="showMorePostBtnTest" duration-ms="13472" started-at="2015-06-08T18:13:35Z" description="Testing the number of Post&#039;s displaying default" finished-at="2015-06-08T18:13:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void scenario.AlphaTalks.showMorePostBtnTest(java.lang.reflect.Method) throws java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- showMorePostBtnTest -->
+        <test-method status="PASS" signature="stopDriver()[pri:0, instance:scenario.AlphaTalks@34d63f]" name="stopDriver" is-config="true" duration-ms="0" started-at="2015-06-08T18:14:10Z" finished-at="2015-06-08T18:14:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- stopDriver -->
       </class> <!-- scenario.AlphaTalks -->
       <class name="scenario.Login">
-        <test-method status="PASS" signature="loginWithValidDetails(java.lang.String, java.lang.reflect.Method)[pri:0, instance:scenario.Login@dca536]" name="loginWithValidDetails" duration-ms="50239" started-at="2015-06-08T15:32:06Z" finished-at="2015-06-08T15:32:56Z">
+        <test-method status="PASS" signature="loginWithValidDetails(java.lang.String, java.lang.reflect.Method)[pri:0, instance:scenario.Login@dca536]" name="loginWithValidDetails" duration-ms="27431" started-at="2015-06-08T18:12:59Z" finished-at="2015-06-08T18:13:26Z">
           <params>
             <param index="0">
               <value>

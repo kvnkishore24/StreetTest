@@ -7,10 +7,12 @@
 		<parameter name="browser" value="chrome">
 			<parameter name="browsername" value="Chrome Browser" />
 			<classes>
+			
 				<class name="scenario.Login" />
 				<class name="scenario.AlphaTalks" />
 				<class name="scenario.AlphaBites" />
-				
+			
+							
 			</classes>
 		</parameter>
 	</test>
