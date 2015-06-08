@@ -1,20 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
-<suite thread-count="2" name="Failed suite [main Suite]">
-  <parameter name="browser" value="chrome"/>
-  <parameter name="browsername" value="Chrome Browser"/>
-  <test name="ChromeTest(failed)">
-    <parameter name="browser" value="chrome"/>
-    <parameter name="browsername" value="Chrome Browser"/>
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
     <classes>
       <class name="scenario.AlphaTalks">
         <methods>
-          <include name="initialize"/>
-          <include name="showMorePostBtnTest" invocation-numbers="0"/>
           <include name="defaultPostsDisplayingTest"/>
-          <include name="stopDriver"/>
         </methods>
       </class> <!-- scenario.AlphaTalks -->
     </classes>
-  </test> <!-- ChromeTest(failed) -->
-</suite> <!-- Failed suite [main Suite] -->
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

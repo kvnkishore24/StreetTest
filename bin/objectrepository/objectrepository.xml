@@ -141,21 +141,11 @@
 			<identifyby>id</identifyby>
 			<value>alphatalkContent</value>
 		</object>
-		<object>
-			<name>showmorepostsBtn</name>
-			<identifyby>xpath</identifyby>
-			<value>//a[contains(text(),'Show more posts')]</value>
-		</object>
 	<title>AlphaBite Content</title>
 		<object>
 			<name>alphabitesContent</name>
 			<identifyby>id</identifyby>
 			<value>alphabitesContent</value>
-		</object>
-		<object>
-			<name>showmorebitesBtn</name>
-			<identifyby>xpath</identifyby>
-			<value>//a[contains(text(),'Show more AlphaBites')]</value>
 		</object>
 			
 		
