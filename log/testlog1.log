@@ -1,0 +1,852 @@
+2015-06-04 16:56:13,911 [main] INFO shareTest - AlphaStreet Page loaded successfully
+2015-06-04 16:56:14,245 [main] INFO shareTest -  Sahre-Tab Displaying
+2015-06-04 16:56:14,627 [main] INFO shareTest -  T-Tab Displaying
+2015-06-04 17:01:19,004 [main] INFO shareTest - AlphaStreet Page loaded successfully
+2015-06-04 17:01:19,682 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 17:01:19,980 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 17:53:04,637 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-04 17:53:20,842 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-04 17:53:23,176 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-04 17:53:28,418 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-04 17:53:30,615 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-04 17:53:32,651 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 17:53:32,982 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 17:53:33,099 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 17:53:38,399 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 17:53:47,959 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 17:56:41,131 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-04 17:57:00,831 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-04 17:57:03,270 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-04 17:57:08,600 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-04 17:57:10,844 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-04 17:57:12,870 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 17:57:13,286 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 17:57:13,366 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 17:57:19,337 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 17:57:29,550 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 18:55:29,031 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-04 18:55:45,258 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-04 18:55:47,601 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-04 18:55:52,840 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-04 18:55:55,038 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-04 18:55:57,043 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 18:55:57,455 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 18:55:57,580 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 18:56:02,760 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 18:56:12,762 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 18:56:18,241 [main] INFO userLogOutTest -  GUI Passed:LogOut Diplaying
+2015-06-04 18:56:18,241 [main] INFO userLogOutTest -  i.e Logout
+2015-06-04 18:56:19,739 [main] INFO userLogOutTest -  User Clicked on LogOut
+2015-06-04 18:56:19,766 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-04 18:56:21,025 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-04 18:56:23,334 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-04 18:56:28,585 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-04 18:56:30,788 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-04 18:56:32,797 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 18:56:32,969 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 18:56:33,720 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 18:56:38,846 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 18:56:49,009 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 18:56:49,178 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-04 19:02:03,629 [main] INFO homePageTest - Chrome Browser launches successfully
+2015-06-04 19:02:18,099 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-04 19:02:18,100 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-04 19:02:18,324 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-04 19:02:21,122 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-04 19:02:23,462 [main] INFO loginTest -  Typed Email in Email-TextBox
+2015-06-04 19:02:28,777 [main] INFO loginTest -  Typed Password in Password-TextBox
+2015-06-04 19:02:30,963 [main] INFO loginTest -  User clicked signin Button
+2015-06-04 19:02:33,601 [main] INFO userNameTest -  The user has successfully logged into AlphaStreet
+2015-06-04 19:02:33,688 [main] INFO userNameTest - Welcome kishore
+2015-06-04 19:02:33,692 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-04 19:02:34,594 [main] INFO userEmailTest -  GUI Passed:Mail id displaying
+2015-06-04 19:02:34,595 [main] INFO userEmailTest -  i.e kvn.kishore24@gmail.com
+2015-06-04 19:02:34,601 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 19:02:34,798 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 19:02:34,849 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 19:02:40,062 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 19:02:49,553 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 19:02:54,916 [main] INFO userLogOutTest -  GUI Passed:LogOut Diplaying
+2015-06-04 19:02:54,916 [main] INFO userLogOutTest -  i.e Logout
+2015-06-04 19:02:56,256 [main] INFO userLogOutTest -  User Clicked on LogOut
+2015-06-04 19:03:02,216 [main] INFO homePageTest - FireFox  Browser launches successfully
+2015-06-04 19:04:16,510 [main] INFO homePageTest - Chrome Browser launches successfully
+2015-06-04 19:04:29,770 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-04 19:04:29,771 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-04 19:04:30,000 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-04 19:04:32,466 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-04 19:04:34,822 [main] INFO loginTest -  Typed Email in Email-TextBox
+2015-06-04 19:04:40,120 [main] INFO loginTest -  Typed Password in Password-TextBox
+2015-06-04 19:04:42,305 [main] INFO loginTest -  User clicked signin Button
+2015-06-04 19:04:44,740 [main] INFO userNameTest -  The user has successfully logged into AlphaStreet
+2015-06-04 19:04:44,787 [main] INFO userNameTest - Welcome kishore
+2015-06-04 19:04:44,788 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-04 19:04:44,937 [main] INFO userEmailTest -  GUI Passed:Mail id displaying
+2015-06-04 19:04:44,938 [main] INFO userEmailTest -  i.e kvn.kishore24@gmail.com
+2015-06-04 19:04:44,942 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 19:04:45,070 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 19:04:45,557 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 19:04:50,841 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 19:05:00,909 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 19:05:06,336 [main] INFO userLogOutTest -  GUI Passed:LogOut Diplaying
+2015-06-04 19:05:06,336 [main] INFO userLogOutTest -  i.e Logout
+2015-06-04 19:05:07,687 [main] INFO userLogOutTest -  User Clicked on LogOut
+2015-06-04 19:05:13,160 [main] INFO homePageTest - FireFox  Browser launches successfully
+2015-06-04 19:05:25,017 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-04 19:05:25,017 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-04 19:05:25,408 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-04 19:05:25,814 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-04 19:05:32,224 [main] INFO loginTest -  Typed Email in Email-TextBox
+2015-06-04 19:05:37,988 [main] INFO loginTest -  Typed Password in Password-TextBox
+2015-06-04 19:05:40,774 [main] INFO loginTest -  User clicked signin Button
+2015-06-04 19:05:44,839 [main] INFO userNameTest -  The user has successfully logged into AlphaStreet
+2015-06-04 19:05:44,879 [main] INFO userNameTest - Welcome kishore
+2015-06-04 19:05:44,880 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-04 19:05:45,986 [main] INFO userEmailTest -  GUI Passed:Mail id displaying
+2015-06-04 19:05:45,987 [main] INFO userEmailTest -  i.e kvn.kishore24@gmail.com
+2015-06-04 19:05:45,992 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 19:05:46,383 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 19:05:46,503 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 19:05:51,907 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 19:06:04,979 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 19:06:11,453 [main] INFO userLogOutTest -  GUI Passed:LogOut Diplaying
+2015-06-04 19:06:11,453 [main] INFO userLogOutTest -  i.e Logout
+2015-06-04 19:06:13,393 [main] INFO userLogOutTest -  User Clicked on LogOut
+2015-06-04 19:41:14,844 [main] INFO homePageTest - Chrome Browser launches successfully
+2015-06-04 19:41:26,440 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-04 19:41:26,441 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-04 19:41:26,688 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-04 19:41:29,162 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-04 19:41:31,696 [main] INFO loginTest -  Typed Email in Email-TextBox
+2015-06-04 19:41:37,016 [main] INFO loginTest -  Typed Password in Password-TextBox
+2015-06-04 19:41:39,218 [main] INFO loginTest -  User clicked signin Button
+2015-06-04 19:41:42,958 [main] INFO userNameTest -  The user has successfully logged into AlphaStreet
+2015-06-04 19:41:43,018 [main] INFO userNameTest - Welcome kishore
+2015-06-04 19:41:43,021 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-04 19:41:43,207 [main] INFO userEmailTest -  GUI Passed:Mail id displaying
+2015-06-04 19:41:43,208 [main] INFO userEmailTest -  i.e kvn.kishore24@gmail.com
+2015-06-04 19:41:43,210 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 19:41:43,398 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 19:41:43,439 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 19:41:48,544 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 19:41:57,981 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 19:41:58,102 [main] INFO shareTest - Share posted successfully
+2015-06-04 19:42:03,368 [main] INFO userLogOutTest -  GUI Passed:LogOut Diplaying
+2015-06-04 19:42:03,369 [main] INFO userLogOutTest -  i.e Logout
+2015-06-04 19:42:04,723 [main] INFO userLogOutTest -  User Clicked on LogOut
+2015-06-04 19:42:04,750 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-04 19:42:05,254 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-04 19:42:05,254 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-04 19:42:05,522 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-04 19:42:06,202 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-04 19:42:08,599 [main] INFO loginTest -  Typed Email in Email-TextBox
+2015-06-04 19:42:13,858 [main] INFO loginTest -  Typed Password in Password-TextBox
+2015-06-04 19:42:16,001 [main] INFO loginTest -  User clicked signin Button
+2015-06-04 19:42:18,118 [main] INFO userNameTest -  The user has successfully logged into AlphaStreet
+2015-06-04 19:42:18,138 [main] INFO userNameTest - Welcome kishore
+2015-06-04 19:42:18,139 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-04 19:42:18,325 [main] INFO userEmailTest -  GUI Passed:Mail id displaying
+2015-06-04 19:42:18,325 [main] INFO userEmailTest -  i.e kvn.kishore24@gmail.com
+2015-06-04 19:42:18,333 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 19:42:18,597 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 19:42:18,661 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 19:42:23,745 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 19:42:33,416 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 19:42:33,542 [main] INFO shareTest - Share posted successfully
+2015-06-04 19:42:38,791 [main] INFO userLogOutTest -  GUI Passed:LogOut Diplaying
+2015-06-04 19:42:38,792 [main] INFO userLogOutTest -  i.e Logout
+2015-06-04 19:42:40,100 [main] INFO userLogOutTest -  User Clicked on LogOut
+2015-06-04 19:49:01,653 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-04 19:49:19,601 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-04 19:49:21,978 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-04 19:49:59,740 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-04 19:50:19,179 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-04 19:50:21,560 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-04 19:50:26,847 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-04 19:50:29,064 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-04 19:50:36,282 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 19:50:36,399 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 19:50:36,457 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 19:50:41,593 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 19:50:52,105 [main] INFO shareTest - Text added in post_txt_area
+2015-06-04 19:50:56,849 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-04 19:51:08,807 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-04 19:51:15,176 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-04 19:51:20,672 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-04 19:51:23,016 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-04 19:51:31,149 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-04 19:51:31,531 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-04 19:51:31,604 [main] INFO shareTest -  Share-Tab cliked
+2015-06-04 19:51:36,978 [main] INFO shareTest -  Textarea  Displaying
+2015-06-04 19:51:50,377 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 09:39:30,822 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 09:39:51,234 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 09:39:55,478 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 09:41:07,287 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 09:41:16,769 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-05 09:41:19,375 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 09:42:31,915 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 09:42:33,398 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-05 09:42:36,003 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 09:47:28,325 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 09:47:29,602 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-05 09:47:32,209 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:14:11,376 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 10:14:25,251 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-05 10:14:27,584 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 10:14:32,838 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 10:14:35,069 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 10:14:40,177 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:14:40,324 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 10:14:40,360 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 10:14:45,484 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 10:14:55,698 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 10:15:01,483 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-05 10:15:13,373 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-05 10:15:19,084 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 10:15:24,686 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 10:15:27,151 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 10:15:32,281 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:15:32,705 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 10:15:32,820 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 10:15:38,216 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 10:15:50,715 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 10:15:53,931 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 10:15:55,174 [main] INFO loginWithValidDetails -  User clicked SignUp Button
+2015-06-05 10:15:57,766 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:23:06,881 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:23:08,011 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:23:08,011 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:23:08,428 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:23:08,802 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-05 10:23:11,454 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-05 10:23:11,783 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:25:31,647 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:25:32,790 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:25:32,790 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:25:33,322 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:25:33,712 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-05 10:25:36,348 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-05 10:25:36,646 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:26:09,385 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:26:10,451 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:26:10,451 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:26:10,858 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:26:11,232 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-05 10:26:13,822 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-05 10:26:14,150 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:32:42,573 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:32:43,457 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:32:43,457 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:32:43,956 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-05 10:32:46,547 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-05 10:32:46,876 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:34:18,178 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:34:19,086 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:34:19,086 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:34:19,523 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:34:19,898 [main] INFO loginTest -  User clicked SignUp Button
+2015-06-05 10:34:22,519 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-05 10:34:22,863 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:38:02,927 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:38:03,821 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:38:03,821 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:38:04,242 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:38:04,602 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 10:38:07,223 [main] INFO userEmailTest -  Looking for User Emailid
+2015-06-05 10:38:07,536 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:44:17,112 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:44:18,193 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:44:18,193 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:44:18,631 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:44:18,990 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 10:51:03,022 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:51:04,114 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:51:04,114 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:51:04,522 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:51:04,880 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 10:52:16,992 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:52:17,871 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:52:17,871 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:52:18,292 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:52:18,667 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 10:53:07,228 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 10:53:16,142 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 10:53:20,996 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-05 10:53:29,489 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:53:30,380 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:53:30,380 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:53:30,833 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:53:33,954 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 10:53:44,875 [main] INFO loginTest -  Typed Email in Email-TextBox
+2015-06-05 10:53:50,492 [main] INFO loginTest -  Typed Password in Password-TextBox
+2015-06-05 10:53:52,958 [main] INFO loginTest -  User clicked signin Button
+2015-06-05 10:54:37,220 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:54:38,092 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:54:38,092 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:54:38,513 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:54:38,904 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 10:57:05,023 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 10:57:06,073 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 10:57:06,073 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 10:57:06,437 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 10:57:06,751 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 11:04:09,445 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 11:04:10,516 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 11:04:10,516 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 11:04:10,938 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 11:04:11,312 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 11:08:04,884 [main] INFO homePageTest - IE Browser launches successfully
+2015-06-05 11:08:05,815 [main] INFO homePageTest - AlphaStreet Page loaded successfully
+2015-06-05 11:08:05,815 [main] INFO homePageTest -  looking for Alpha Street Home page Logo
+2015-06-05 11:08:06,197 [main] INFO homePageTest -  Successfully navigated to home page
+2015-06-05 11:08:06,557 [main] INFO loginTest -  User clicked JoinIn/SignIn Button
+2015-06-05 11:58:51,110 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 11:59:07,274 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 11:59:12,529 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 11:59:17,761 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 11:59:19,978 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 11:59:25,041 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 11:59:25,249 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 11:59:25,289 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 11:59:30,391 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 11:59:40,102 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 11:59:47,445 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-05 12:00:00,913 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:00:07,326 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:00:12,912 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:00:15,440 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:00:20,573 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:00:21,011 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 12:00:21,149 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 12:00:26,571 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 12:00:39,901 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 12:00:43,207 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:00:45,238 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:00:50,898 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:08:21,501 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:08:23,042 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:08:28,464 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:15:27,791 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:15:44,760 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:15:50,645 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:15:56,278 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:15:58,743 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:15:58,743 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:17:08,186 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:17:10,525 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:17:16,413 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:17:22,024 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:17:24,506 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:17:24,522 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:17:57,692 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:17:59,963 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:18:05,798 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:18:11,415 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:18:13,897 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:18:13,897 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:18:55,706 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 12:19:11,254 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:19:16,489 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:19:21,706 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:19:23,906 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:19:23,916 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:19:26,171 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 12:19:26,241 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 12:19:31,370 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 12:19:41,559 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 12:20:38,964 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:20:41,245 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:20:47,190 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:20:52,770 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:20:55,208 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:20:55,208 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:21:00,589 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 12:21:00,793 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 12:21:06,117 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 12:21:20,620 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 12:53:37,297 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:53:39,336 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:53:44,937 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:53:50,487 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:53:52,934 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:53:52,939 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:53:54,881 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 12:53:55,056 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 12:54:00,741 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 12:54:12,688 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 12:57:12,238 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 12:57:14,430 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 12:57:20,053 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 12:57:25,725 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 12:57:28,155 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 12:57:30,601 [main] WARN estimateTest - Element must not be hidden, disabled or read-only (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 33 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=true, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:46874/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 73a228d4-db14-415b-a416-f7347714a563
+2015-06-05 12:57:30,623 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 12:57:31,219 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 12:57:31,373 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 12:57:36,713 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 12:57:49,042 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 13:08:50,625 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 13:08:52,875 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 13:08:58,541 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 13:09:04,155 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 13:09:06,609 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 13:09:08,857 [main] WARN estimateTest - Element must not be hidden, disabled or read-only (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 44 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=true, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:20228/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a7eb8633-39dc-4030-aea4-78b840e73c84
+2015-06-05 13:09:08,858 [main] WARN estimateTest - Unable to find or typed ticker in Estimate-Ticker-TxtBox
+2015-06-05 13:09:09,452 [main] WARN estimateTest - Element must not be hidden, disabled or read-only (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 158 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=true, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:20228/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: a7eb8633-39dc-4030-aea4-78b840e73c84
+2015-06-05 13:09:09,452 [main] WARN estimateTest - Unable to find (or) typed ticker in Estimate-Value-TxtBox
+2015-06-05 13:09:09,454 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 13:09:09,739 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 13:09:09,888 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 13:09:15,222 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 13:09:26,995 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 13:19:01,132 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 13:19:03,514 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 13:19:09,395 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 13:19:15,237 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 13:19:17,656 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 13:19:19,126 [main] WARN estimateTest - null
+2015-06-05 13:19:19,127 [main] WARN estimateTest - Unable to find or typed ticker in Estimate-Ticker-TxtBox
+2015-06-05 13:19:19,680 [main] WARN estimateTest - Element must not be hidden, disabled or read-only (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=true, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:12817/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 90130b4f-be51-4685-b6a6-03cc634e08e0
+2015-06-05 13:19:19,681 [main] WARN estimateTest - Unable to find or typed ticker in Estimate-Ticker-TxtBox
+2015-06-05 13:19:19,988 [main] WARN estimateTest - Element must not be hidden, disabled or read-only (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 34 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=true, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:12817/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 90130b4f-be51-4685-b6a6-03cc634e08e0
+2015-06-05 13:19:19,989 [main] WARN estimateTest - Unable to find (or) typed ticker in Estimate-Value-TxtBox
+2015-06-05 13:19:19,996 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 13:19:20,560 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 13:19:20,756 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 13:19:26,148 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 13:19:38,242 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 13:21:45,608 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 13:21:47,798 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 13:21:53,480 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 13:21:59,063 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 13:22:01,483 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 13:22:01,495 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 13:22:09,467 [main] INFO estimateTest - Estimate Ticker TYPED 
+2015-06-05 13:26:21,966 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 13:26:24,100 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 13:26:30,000 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 13:26:35,816 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 13:26:38,265 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 13:26:38,274 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 13:26:40,346 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 13:26:40,518 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 13:26:46,116 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 13:26:58,252 [main] INFO shareTest - Text added in post_txt_area
+2015-06-05 13:27:04,670 [main] WARN estimateTest - Element must not be hidden, disabled or read-only (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=true, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:44462/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 2f421a98-9010-4af1-9503-b6bd337f45c7
+2015-06-05 13:27:04,671 [main] WARN estimateTest - Unable to find or typed ticker in Estimate-Ticker-TxtBox
+2015-06-05 13:27:04,987 [main] WARN estimateTest - Element must not be hidden, disabled or read-only (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 32 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.ie.InternetExplorerDriver
+Capabilities [{browserAttachTimeout=0, enablePersistentHover=true, ie.forceCreateProcessApi=false, ie.usePerProcessProxy=false, ignoreZoomSetting=true, handlesAlerts=true, version=11, platform=WINDOWS, nativeEvents=true, ie.ensureCleanSession=false, elementScrollBehavior=0, ie.browserCommandLineSwitches=, requireWindowFocus=false, browserName=internet explorer, initialBrowserUrl=http://localhost:44462/, takesScreenshot=true, javascriptEnabled=true, ignoreProtectedModeSettings=true, enableElementCacheCleanup=true, cssSelectorsEnabled=true, unexpectedAlertBehaviour=dismiss}]
+Session ID: 2f421a98-9010-4af1-9503-b6bd337f45c7
+2015-06-05 13:27:04,987 [main] WARN estimateTest - Unable to find (or) typed ticker in Estimate-Value-TxtBox
+2015-06-05 13:50:47,593 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 13:50:49,757 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 13:50:55,399 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 13:51:00,914 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 13:51:03,336 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 13:51:03,356 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 13:51:16,513 [main] INFO estimateTest - Estimate Ticker Typed 
+2015-06-05 13:51:17,307 [main] INFO estimateTest - Estimate Ticker Value Typed 
+2015-06-05 13:53:16,860 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 13:53:18,897 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 13:53:24,844 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 13:53:30,644 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 13:53:33,400 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 13:53:33,415 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 13:53:38,833 [main] INFO shareTest -  Share-Tab Displaying
+2015-06-05 13:53:39,073 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 13:53:39,552 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 13:53:42,933 [main] INFO shareTest - Post ad
+2015-06-05 13:53:43,458 [main] INFO shareTest - Cliked on POST-Button 
+2015-06-05 13:53:55,601 [main] INFO estimateTest - Estimate Ticker Typed 
+2015-06-05 13:53:56,475 [main] INFO estimateTest - Estimate Ticker Value Typed 
+2015-06-05 15:10:41,631 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 15:10:58,751 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:11:04,017 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:11:09,270 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:11:11,554 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:11:11,568 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:11:16,987 [main] WARN estimateTest - invalid element state: Element is not currently interactable and may not be manipulated
+  (Session info: chrome=43.0.2357.81)
+  (Driver info: chromedriver=2.14.313457 (3d645c400edf2e2c500566c9aa096063e707c9cf),platform=Windows NT 6.1 SP1 x86) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 19 milliseconds
+Build info: version: '2.45.0', revision: '32a636c', time: '2015-03-05 22:01:35'
+System info: host: 'DNIS-325', ip: '192.168.7.46', os.name: 'Windows 7', os.arch: 'x86', os.version: '6.1', java.version: '1.8.0_45'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, chrome={userDataDir=C:\Users\KISHOR~1\AppData\Local\Temp\scoped_dir6600_23259}, takesHeapSnapshot=true, databaseEnabled=false, handlesAlerts=true, version=43.0.2357.81, platform=XP, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=true, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c6eb5b7decc4f8eaf101b778e34e2548
+2015-06-05 15:11:16,988 [main] WARN estimateTest - Unable to find or typed ticker in Estimate-Ticker-TxtBox
+2015-06-05 15:11:17,223 [main] INFO estimateTest - Estimate Ticker Value Typed 
+2015-06-05 15:11:22,420 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-05 15:11:43,428 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:11:49,669 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:11:55,321 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:11:57,678 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:11:57,694 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:12:10,819 [main] INFO estimateTest - Estimate Ticker Typed 
+2015-06-05 15:12:11,382 [main] INFO estimateTest - Estimate Ticker Value Typed 
+2015-06-05 15:12:14,378 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 15:12:16,690 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:12:22,510 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:12:28,085 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:12:30,567 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:12:30,567 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:12:42,510 [main] INFO estimateTest - Estimate Ticker Typed 
+2015-06-05 15:12:43,041 [main] INFO estimateTest - Estimate Ticker Value Typed 
+2015-06-05 15:21:07,158 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 15:21:23,846 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:21:29,337 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:21:34,717 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:21:37,020 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:21:37,038 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:21:42,949 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-05 15:21:55,657 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:22:01,813 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:22:07,861 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:22:10,642 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:22:10,654 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:22:13,408 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 15:22:15,871 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:22:21,606 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:22:27,724 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:22:30,160 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:22:30,168 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:26:37,580 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 15:26:53,838 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:26:59,133 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:27:04,394 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:27:06,607 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:27:06,628 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:27:12,651 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-05 15:27:20,921 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:28:12,441 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 15:28:28,579 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:28:33,837 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:28:39,152 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:28:41,330 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:28:41,338 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:28:49,576 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 15:28:49,704 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 15:28:51,073 [main] INFO shareTest - Post ad
+2015-06-05 15:28:51,212 [main] INFO shareTest - Cliked on POST-Button 
+2015-06-05 15:28:56,539 [main] INFO loginWithValidDetails - FireFox  Browser launched
+2015-06-05 15:29:15,297 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:29:21,431 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:29:26,988 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:29:29,415 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:29:29,420 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:29:38,035 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 15:29:38,586 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 15:29:43,043 [main] INFO shareTest - Post ad
+2015-06-05 15:29:43,725 [main] INFO shareTest - Cliked on POST-Button 
+2015-06-05 15:29:45,920 [main] INFO loginWithValidDetails - IE  Browser launched
+2015-06-05 15:29:48,078 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:29:53,734 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:29:59,308 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:30:01,888 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:30:01,903 [main] INFO shareTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:30:10,520 [main] INFO shareTest -  Share-Tab cliked
+2015-06-05 15:30:10,955 [main] INFO shareTest -  Textarea  Displaying
+2015-06-05 15:30:14,525 [main] INFO shareTest - Post ad
+2015-06-05 15:30:14,985 [main] INFO shareTest - Cliked on POST-Button 
+2015-06-05 15:49:18,789 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 15:49:35,511 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:49:40,846 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:49:46,198 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:49:48,499 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:49:48,525 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:50:29,622 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 15:50:46,516 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:50:52,026 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:50:57,423 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:50:59,856 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:50:59,882 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-05 15:51:38,349 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 15:52:24,739 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 15:52:30,129 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 15:52:35,462 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 15:52:37,631 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 15:52:37,640 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-05 16:57:26,538 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 16:57:52,134 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 16:57:57,386 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 16:58:02,623 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 16:58:04,834 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 16:58:04,843 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-05 18:09:44,705 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 18:10:02,070 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 18:10:07,238 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 18:10:12,388 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 18:10:14,514 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 18:10:14,524 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-05 18:42:42,403 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-05 18:42:57,874 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-05 18:43:03,197 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-05 18:43:08,567 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-05 18:43:10,735 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-05 18:43:10,760 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 11:15:49,176 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 11:16:04,450 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 11:16:09,925 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 11:16:15,416 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 11:16:17,731 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 11:16:17,762 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 11:22:25,550 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 11:22:39,608 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 11:22:44,926 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 11:22:50,271 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 11:22:52,558 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 11:22:52,579 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 11:27:43,120 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 11:28:02,044 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 11:28:07,539 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 11:28:12,915 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 11:28:15,210 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 11:28:15,271 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 11:33:58,597 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 11:34:12,543 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 11:34:17,980 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 11:34:23,318 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 11:34:25,567 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 11:34:25,582 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 11:35:12,983 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 11:35:28,265 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 11:35:33,690 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 11:35:39,079 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 11:35:41,375 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 11:35:41,403 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 11:35:49,590 [main] INFO allLinksTest - looping
+2015-06-08 11:39:18,986 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 11:39:34,155 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 11:39:39,579 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 11:39:44,958 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 11:39:47,318 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 11:39:47,341 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 11:42:42,022 [main] INFO allLinksTest - looping
+2015-06-08 12:00:04,485 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:00:19,383 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:00:24,556 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:00:29,713 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:00:31,842 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:00:31,847 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:00:39,901 [main] INFO allLinksTest - looping
+2015-06-08 12:00:56,040 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:01:12,835 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:01:18,006 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:01:23,181 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:01:25,311 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:01:25,315 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:02:06,039 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:02:21,140 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:02:26,426 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:02:31,708 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:02:34,121 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:02:34,153 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:02:42,254 [main] INFO allLinksTest - looping
+2015-06-08 12:02:42,268 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,278 [main] INFO allLinksTest - post_319
+2015-06-08 12:02:42,282 [main] INFO allLinksTest - post_319
+2015-06-08 12:02:42,295 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,306 [main] INFO allLinksTest - post_318
+2015-06-08 12:02:42,313 [main] INFO allLinksTest - post_318
+2015-06-08 12:02:42,326 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,337 [main] INFO allLinksTest - post_317
+2015-06-08 12:02:42,346 [main] INFO allLinksTest - post_317
+2015-06-08 12:02:42,357 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,378 [main] INFO allLinksTest - post_316
+2015-06-08 12:02:42,383 [main] INFO allLinksTest - post_316
+2015-06-08 12:02:42,396 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,411 [main] INFO allLinksTest - post_315
+2015-06-08 12:02:42,419 [main] INFO allLinksTest - post_315
+2015-06-08 12:02:42,431 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,444 [main] INFO allLinksTest - post_314
+2015-06-08 12:02:42,449 [main] INFO allLinksTest - post_314
+2015-06-08 12:02:42,462 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,481 [main] INFO allLinksTest - post_313
+2015-06-08 12:02:42,493 [main] INFO allLinksTest - post_313
+2015-06-08 12:02:42,505 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,520 [main] INFO allLinksTest - post_312
+2015-06-08 12:02:42,530 [main] INFO allLinksTest - post_312
+2015-06-08 12:02:42,546 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,562 [main] INFO allLinksTest - post_311
+2015-06-08 12:02:42,571 [main] INFO allLinksTest - post_311
+2015-06-08 12:02:42,585 [main] INFO allLinksTest - 10
+2015-06-08 12:02:42,604 [main] INFO allLinksTest - post_310
+2015-06-08 12:02:42,613 [main] INFO allLinksTest - post_310
+2015-06-08 12:37:29,954 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:37:45,369 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:37:50,561 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:37:55,741 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:37:57,874 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:37:57,880 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:39:32,015 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:39:46,893 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:39:52,193 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:39:57,449 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:39:59,696 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:39:59,713 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:40:07,803 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,810 [main] INFO allLinksTest - post_319
+2015-06-08 12:40:07,815 [main] INFO allLinksTest - post_319
+2015-06-08 12:40:07,822 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,829 [main] INFO allLinksTest - post_318
+2015-06-08 12:40:07,833 [main] INFO allLinksTest - post_318
+2015-06-08 12:40:07,840 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,847 [main] INFO allLinksTest - post_317
+2015-06-08 12:40:07,852 [main] INFO allLinksTest - post_317
+2015-06-08 12:40:07,859 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,868 [main] INFO allLinksTest - post_316
+2015-06-08 12:40:07,872 [main] INFO allLinksTest - post_316
+2015-06-08 12:40:07,879 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,885 [main] INFO allLinksTest - post_315
+2015-06-08 12:40:07,889 [main] INFO allLinksTest - post_315
+2015-06-08 12:40:07,898 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,906 [main] INFO allLinksTest - post_314
+2015-06-08 12:40:07,910 [main] INFO allLinksTest - post_314
+2015-06-08 12:40:07,917 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,924 [main] INFO allLinksTest - post_313
+2015-06-08 12:40:07,929 [main] INFO allLinksTest - post_313
+2015-06-08 12:40:07,935 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,942 [main] INFO allLinksTest - post_312
+2015-06-08 12:40:07,946 [main] INFO allLinksTest - post_312
+2015-06-08 12:40:07,952 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,964 [main] INFO allLinksTest - post_311
+2015-06-08 12:40:07,971 [main] INFO allLinksTest - post_311
+2015-06-08 12:40:07,978 [main] INFO allLinksTest - 10
+2015-06-08 12:40:07,985 [main] INFO allLinksTest - post_310
+2015-06-08 12:40:07,989 [main] INFO allLinksTest - post_310
+2015-06-08 12:40:50,583 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:41:04,891 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:41:10,285 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:41:15,550 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:41:17,751 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:41:17,770 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:41:25,862 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,873 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,883 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,890 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,897 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,904 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,914 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,926 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,937 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,947 [main] INFO allLinksTest - 10
+2015-06-08 12:41:25,960 [main] INFO allLinksTest - 10
+2015-06-08 12:42:29,351 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:42:46,027 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:42:51,299 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:42:56,549 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:42:58,766 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:42:58,771 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:43:06,852 [main] INFO allLinksTest - Totel number of Post's::10
+2015-06-08 12:53:23,362 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:53:43,897 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:53:49,217 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:53:54,577 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:53:56,941 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:53:56,959 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:54:05,038 [main] INFO allLinksTest - Totel number of Post's::10
+2015-06-08 12:54:05,196 [main] INFO defaultPostDisplyingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 12:58:29,912 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 12:58:44,464 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 12:58:49,816 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 12:58:55,054 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 12:58:57,230 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 12:58:57,240 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:00:06,725 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 13:00:21,814 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 13:00:27,152 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 13:00:32,313 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 13:00:34,443 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 13:00:34,453 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:00:42,581 [main] INFO allLinksTest - Totel number of Post's::10
+2015-06-08 13:01:53,963 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 13:02:08,906 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 13:02:14,182 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 13:02:19,431 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 13:02:21,610 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 13:02:21,624 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:02:29,768 [main] INFO allLinksTest - Totel number of Post's::10
+2015-06-08 13:02:29,838 [main] INFO defaultPostDisplyingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:03:01,108 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 13:03:16,385 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 13:03:21,670 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 13:03:26,953 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 13:03:29,207 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 13:03:29,218 [main] INFO allLinksTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:03:37,401 [main] INFO allLinksTest - Totel number of Post's::10
+2015-06-08 13:03:37,481 [main] INFO defaultPostDisplyingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:03:45,585 [main] INFO defaultPostDisplyingTest - Totel number of Post's::10
+2015-06-08 13:13:22,137 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 13:13:38,548 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 13:13:43,837 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 13:13:49,108 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 13:13:51,326 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 13:13:51,339 [main] INFO defaultPostsDisplayingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:13:59,661 [main] INFO defaultPostsDisplayingTest - Totel number of Post's::10
+2015-06-08 13:13:59,870 [main] INFO defaultBitesDisplayingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:16:40,686 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 13:16:54,627 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 13:16:59,925 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 13:17:05,209 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 13:17:07,595 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 13:17:07,631 [main] INFO defaultPostsDisplayingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:17:15,819 [main] INFO defaultPostsDisplayingTest - Totel number of Post's::10
+2015-06-08 13:17:16,170 [main] INFO defaultBitesDisplayingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 13:17:24,294 [main] INFO defaultBitesDisplayingTest - Totel number of Post's::10
+2015-06-08 15:27:39,334 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 15:27:55,299 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 15:28:00,651 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 15:28:05,912 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 15:28:08,130 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 15:28:08,144 [main] INFO defaultPostsDisplayingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 15:28:16,357 [main] INFO defaultPostsDisplayingTest - Totel number of Post's::10
+2015-06-08 15:32:06,872 [main] INFO loginWithValidDetails - Chrome Browser launched
+2015-06-08 15:32:43,932 [main] INFO loginWithValidDetails -  User clicked JoinIn/SignIn Button
+2015-06-08 15:32:49,267 [main] INFO loginWithValidDetails -  Typed Email in Email-TextBox
+2015-06-08 15:32:54,746 [main] INFO loginWithValidDetails -  Typed Password in Password-TextBox
+2015-06-08 15:32:56,938 [main] INFO loginWithValidDetails -  User clicked signin Button
+2015-06-08 15:32:56,947 [main] INFO defaultPostsDisplayingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 15:33:05,285 [main] INFO defaultPostsDisplayingTest - Totel number of Post's::10
+2015-06-08 15:33:05,482 [main] INFO defaultBitesDisplayingTest - User Successfully navigated to HOME_PAGE
+2015-06-08 15:33:13,570 [main] INFO defaultBitesDisplayingTest - Totel number of Post's::10

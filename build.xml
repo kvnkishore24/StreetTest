@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project name="Alpha Street Test" basedir=".">
+
+	<tstamp>
+		<format property="CURRENT_TIME" pattern="dd-MMM-yyyy HH mm ss" />
+	</tstamp>
+
+	<property file="config.properties" />
+	<property name="basedir" value="." />
+	<property name="lib" value="${basedir}/lib" />
+	<property name="src" value="${basedir}/src" />
+	<property name="bin" value="${basedir}/bin" />
+	<property name="testng-report-dir" value="${basedir}/test-output" />
+
+	<!-- Setting the classpath  -->
+
+	<path id="classpath">
+		<pathelement location="${bin}" />
+		<fileset dir="${lib}">
+			<include name="*.jar" />
+		</fileset>
+	</path>
+
+	<!-- Welcome Info  -->
+
+	<target name="info">
+		<property name="website" value="www.asdev.digital-nirvana.com/demo1" />
+		<echo>...........Testing..............</echo>
+	</target>
+
+
+	<!-- Deleteing directories  -->
+
+	<target name="clean" depends="info">
+		<echo message="deleting existing  directories" />
+		<delete dir="${bin}" />
+		<delete dir="${testng-report-dir}" />
+	</target>
+
+
+	<!-- Creating directories -->
+
+	<target name="create-directories" depends="clean">
+		<echo> /* Create Directories */ </echo>
+		<mkdir dir="${bin}" />
+		<mkdir dir="${testng-report-dir}" />
+	</target>
+
+	<!-- Compileing the java code  -->
+
+	<target name="compile" depends="create-directories">
+		<echo> /* Compiling Directory Classes */ </echo>
+		<javac srcdir="${src}" classpathref="classpath" includeAntRuntime="No" destdir="${bin}" />
+	</target>
+
+	<!-- Run failed testcases-->
+	<target name="rerun">
+		<echo message="running failed test cases " />
+		<testng classpath="${build.dir};${lib}/*">
+			<xmlfileset dir="${basedir}/test-output" includes="testng-failed.xml" />
+		</testng>
+	</target>
+
+
+	<!-- Runs the file and generates Reportng report for reportNG-->
+
+	<target name="run" depends="compile">
+		<echo>/* message="runnuing Tests " */</echo>
+		<taskdef name="testng" classname="org.testng.TestNGAntTask" classpathref="classpath" />
+		<mkdir dir="${testng-report-dir}" />
+		<testng outputdir="${testng-report-dir}" haltOnfailure="true" classpathref="classpath" useDefaultListeners="true" delegateCommandSystemProperties="true">
+			<xmlfileset dir="${basedir}" includes="testng.xml" />
+			<sysproperty key="org.uncommons.reportng.coverage-report" value="My Test Project Report" />
+		</testng>
+	</target>
+	<target name="crossrun" depends="compile">
+		<echo>/* message="Running cross browse testing " */</echo>
+		<taskdef name="testng" classname="org.testng.TestNGAntTask" classpathref="classpath" />
+		<mkdir dir="${testng-report-dir}" />
+		<testng outputdir="${testng-report-dir}" haltOnfailure="true" classpathref="classpath" useDefaultListeners="true" delegateCommandSystemProperties="true">
+			<xmlfileset dir="${basedir}" includes="parallel.xml" />
+			<sysproperty key="org.uncommons.reportng.coverage-report" value="My Test Project Report" />
+		</testng>
+	</target>
+</project>

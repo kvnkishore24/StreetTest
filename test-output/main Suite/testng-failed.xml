@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="2" name="Failed suite [main Suite]">
+  <parameter name="browser" value="chrome"/>
+  <parameter name="browsername" value="Chrome Browser"/>
+  <test name="ChromeTest(failed)">
+    <parameter name="browser" value="chrome"/>
+    <parameter name="browsername" value="Chrome Browser"/>
+    <classes>
+      <class name="scenario.Sample">
+        <methods>
+          <include name="initialize"/>
+          <include name="defaultBitesDisplayingTest" invocation-numbers="0"/>
+          <include name="stopDriver"/>
+        </methods>
+      </class> <!-- scenario.Sample -->
+    </classes>
+  </test> <!-- ChromeTest(failed) -->
+</suite> <!-- Failed suite [main Suite] -->

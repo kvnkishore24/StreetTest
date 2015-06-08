@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PageFactory>
+	<page>
+	
+<title>Main Page</title>
+		<object>
+			<name>Joinbtn</name>
+			<identifyby>xpath</identifyby>
+			<value>//a[contains(text(),'Join/Sign in')]</value>
+		</object>
+		<object>
+			<name>logo</name>
+			<identifyby>css</identifyby>
+			<value>//img[@alt="alphastreet"]</value>
+		</object>
+
+<title>Signup Page</title>
+		<object>
+			<name>usernameboxup</name>
+			<identifyby>name</identifyby>
+			<value>username</value>
+		</object>
+
+		<object>
+			<name>emailboxup</name>
+			<identifyby>name</identifyby>
+			<value>Email</value>
+		</object>
+
+		<object>
+			<name>passwordboxup</name>
+			<identifyby>name</identifyby>
+			<value>Password</value>
+		</object>
+
+		<object>
+			<name>joinbtn</name>
+			<identifyby>xpath</identifyby>
+			<value>//input[@value='Join AlphaStreet']</value>
+		</object>
+<title>Login Page</title>
+		<object>
+			<name>emailbox</name>
+			<identifyby>xpath</identifyby>
+			<value>//div[@id='inner-wrapper']/section/div/div/div/div/div/form/div/input[1]</value>
+		</object>
+
+		<object>
+			<name>passwordbox</name>
+			<identifyby>xpath</identifyby>
+			<value>//div[@id='inner-wrapper']/section/div/div/div/div/div/form/div/input[2]
+			</value>
+		</object>
+
+		<object>
+			<name>signinbtn</name>
+			<identifyby>xpath</identifyby>
+			<value>//button[@value='Sign In']</value>
+		</object>
+		
+<title>User Page</title>
+		
+		<object>
+			<name>welcometxt</name>
+			<identifyby>xpath</identifyby>
+			<value>//div[@id='userControls']/div/div</value>
+		</object>
+		
+		<object>
+			<name>usermailtxt</name>
+			<identifyby>xpath</identifyby>
+			<value>//div[@id='userEmail']/div/a</value>
+		</object>
+		<object>
+			<name>logoutlink</name>
+			<identifyby>xpath</identifyby>
+			<value>//a[contains(text(),'Logout')]</value>
+		</object>
+<title>Home Page</title>
+	<title>Share Tab</title>
+		
+		<object>
+			<name>sharetabbtn</name>
+			<identifyby>xpath</identifyby>
+			<value>//a[contains(@href, '#shareupdatePanel')]</value>
+		</object>
+		<object>
+			<name>postingtextarea</name>
+			<identifyby>id</identifyby>
+			<value>postingTextarea</value>
+		</object>
+		<object>
+			<name>postbtn</name>
+			<identifyby>xpath</identifyby>
+			<value>//input[@value='Post']</value>
+		</object>
+		<object>
+			<name>uploadimageicon</name>
+			<identifyby>css</identifyby>
+			<value>span.glyphicon.glyphicon-picture</value>
+		</object>
+		<object>
+			<name>browseimageforpost</name>
+			<identifyby>id</identifyby>
+			<value>postingImage</value>
+		</object>
+		<object>
+			<name>uploadvideoicon</name>
+			<identifyby>css</identifyby>
+			<value>span.glyphicon.glyphicon-film</value>
+		</object>
+		<object>
+			<name>videolinktextbox</name>
+			<identifyby>name</identifyby>
+			<value>postingVideo</value>
+		</object>
+	<title>Estimate Tab</title>
+		<object>
+			<name>estimatetabBtn</name>
+			<identifyby>xpath</identifyby>
+			<value>//a[contains(@href, '#estimatePanel')]</value>
+		</object>
+		<object>
+			<name>estimatetickerBox</name>
+			<identifyby>id</identifyby>
+			<value>estimateTicker</value>
+		</object>	
+		<object>
+			<name>estimatevalueBox</name>
+			<identifyby>id</identifyby>
+			<value>estimatePrice</value>
+		</object>
+		<object>
+			<name>postBtn</name>
+			<identifyby>id</identifyby>
+			<value>form[name="postEstimate"] > input[type="submit"]</value>
+		</object>
+	<title>AlphaTalk Content</title>
+		<object>
+			<name>alphatalkContent</name>
+			<identifyby>id</identifyby>
+			<value>alphatalkContent</value>
+		</object>
+	<title>AlphaBite Content</title>
+		<object>
+			<name>alphabitesContent</name>
+			<identifyby>id</identifyby>
+			<value>alphabitesContent</value>
+		</object>
+			
+		
+		</page>
+</PageFactory>

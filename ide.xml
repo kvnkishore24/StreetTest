@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="main Suite" parallel="false" thread-count="2"
+	annotations="">
+
+	<test name="ChromeTest">
+		<parameter name="browser" value="chrome">
+			<parameter name="browsername" value="Chrome Browser" />
+			<classes>
+				<class name="scenario.Login" />
+				<class name="scenario.AlphaTalks" />
+				<class name="scenario.AlphaBites" />
+				
+			</classes>
+		</parameter>
+	</test>
+<!-- 
+	<test name="FirefoxTest">
+		<parameter name="browser" value="firefox" />
+		<parameter name="browsername" value="FireFox  Browser" />
+		<classes>
+			<class name="scenario.Login" />
+			<class name="scenario.AlphaTalk"></class>
+		</classes>
+
+	</test>
+
+	<test name="IETest">
+		<parameter name="browser" value="ie" />
+		<parameter name="browsername" value="IE  Browser" />
+		<classes>
+			<class name="scenario.Login" />
+			<class name="scenario.AlphaTalk"></class>
+		</classes>
+
+	</test>
+ -->
+</suite>

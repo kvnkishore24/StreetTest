@@ -1,0 +1,21 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="TestNG" verbose="1" parallel="false" thread-count="2" 	data-provider-thread-count="3">
+	<test name="Regression1">
+		<groups>
+			<define name="evenodd">
+				<include name="even" />
+				<include name="odd" />
+			</define>
+			<run>
+				<exclude name="excludeThisGroup" />
+			</run>
+		</groups>
+		<classes>
+			<class name="test.parameters.ParameterSample" />
+			<class name="test.parameters.ParameterTest" />
+			<class name="test.Test1" />
+			<class name="test.Test2" />
+		
+		</classes>
+	</test>
+</suite>
