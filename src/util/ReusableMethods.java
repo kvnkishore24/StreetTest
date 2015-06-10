@@ -34,7 +34,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.id(locator));
 				}
 			} catch (Exception e) {
-
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("xpath")) {
@@ -43,7 +43,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.xpath(locator));
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("name")) {
@@ -52,7 +52,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.name(locator));
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("className")) {
@@ -61,7 +61,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.className(locator));
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("linkText")) {
@@ -70,7 +70,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.linkText(locator));
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("cssSelector")) {
@@ -79,7 +79,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.cssSelector(locator));
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("partialLinkText")) {
@@ -88,7 +88,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.partialLinkText(locator));
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("tagName")) {
@@ -97,7 +97,7 @@ public class ReusableMethods extends BaseTest {
 					element = driver.findElement(By.tagName(locator));
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		}
@@ -285,7 +285,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.id(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("xpath")) {
@@ -294,7 +294,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.xpath(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		}
@@ -305,7 +305,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.name(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("className")) {
@@ -314,7 +314,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.className(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		}
@@ -325,7 +325,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.linkText(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("cssSelector")) {
@@ -334,7 +334,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.cssSelector(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("partialLinkText")) {
@@ -343,7 +343,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.partialLinkText(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("tagName")) {
@@ -352,7 +352,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.tagName(locator)).sendKeys(data);
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		}
@@ -368,7 +368,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.id(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("xpath")) {
@@ -377,7 +377,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.xpath(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		}
@@ -388,7 +388,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.name(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("className")) {
@@ -397,7 +397,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.className(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("linkText")) {
@@ -406,7 +406,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.linkText(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("cssSelector")) {
@@ -415,7 +415,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.cssSelector(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("partialLinkText")) {
@@ -424,7 +424,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.partialLinkText(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		} else if (identifyby.equalsIgnoreCase("tagName")) {
@@ -433,7 +433,7 @@ public class ReusableMethods extends BaseTest {
 					driver.findElement(By.tagName(locator)).click();
 				}
 			} catch (Exception e) {
-				System.out.println("unable to type");
+				System.out.println("unable to find -- " + locator + " --By this-- " + identifyby);
 			}
 
 		}

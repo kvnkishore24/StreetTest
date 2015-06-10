@@ -37,6 +37,7 @@ public class BaseTest {
 		} else if (browser.equalsIgnoreCase("chrome")) {
 			System.setProperty("webdriver.chrome.driver", "lib/chromedriver.exe");
 			driver = new ChromeDriver();
+			driver.manage().timeouts().implicitlyWait(30000, TimeUnit.MILLISECONDS);
 		
 
 		} else if (browser.equalsIgnoreCase("ie")) {
